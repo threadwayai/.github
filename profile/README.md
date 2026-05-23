@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://threadway.ai/">
+    <img src="https://threadway.ai/assets/og-image.png" alt="Threadway — Ship agentic workflows you can trust. Version control & audit for agentic workflows." width="100%">
+  </a>
+</p>
+
 # Threadway
 
 **Ship agentic workflows you can trust.**
